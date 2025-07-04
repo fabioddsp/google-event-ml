@@ -1,10 +1,10 @@
 # Modelo Exploratório com Google Analytics 4 (GA4)
 
-## 📌 Introdução
+## Introdução
 
 Este modelo exploratório utiliza dimensões captadas com o **Google Analytics 4 (GA4)** para identificar o valor do evento principal.
 
-## 📚 Bibliotecas Utilizadas
+## Bibliotecas Utilizadas
 
 - pandas  
 - seaborn  
