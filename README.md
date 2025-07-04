@@ -1,4 +1,4 @@
-# Modelo ExploratÓrio com Google Analytics 4 (GA4)
+# Modelo Exploratório com Google Analytics 4 (GA4)
 
 ## 📌 Introdução
 
