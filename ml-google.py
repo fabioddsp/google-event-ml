@@ -3,7 +3,7 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 # %%
-base_casa = pd.read_csv(r'C:\Users\fabio.paula\Downloads\workspace\data\ml-google.csv', sep=';')
+base_casa = pd.read_csv(r'\workspace\data\ml-google.csv', sep=';')
 base_casa = base_casa.drop(columns=['origem', 'taxa_engajamento', 'taxa_eventos_principais'])
 # %%
 #sns.pairplot(base_casa)
